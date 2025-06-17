@@ -2,17 +2,13 @@
 
 A passionate Programmer and Web Developer from India
 
+-  MCA Student at Motilal Nehru National Institute of Technology, Allahabad, Prayagraj
+-  I’m currently working on a MERN Project
+-  I’m currently learning Machine Learning 
+-  How to reach me: sandeepsingh150797@gmail.com
+-  Programming Language: CPP
+-  Top 20 in Hack36 Annual Development Event of MNNIT Allahabad
+-  AIR 214 in National Institute of Technology Master of Computer Applications Common Entrance Test
 
-**samk97/samk97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 MCA Student at Motilal Nehru National Institute of Technology, Allahabad, Prayagraj
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
